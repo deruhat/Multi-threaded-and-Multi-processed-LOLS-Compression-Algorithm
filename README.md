@@ -10,8 +10,11 @@ Program Behavior:
 The program handles different approaches in a specific way. In case of any error, it will terminate. For example, the program will terminate if:
 
  No text was in the file.
+
  Number of parts required is more than number of characters in file.
+
  Compressed text file could not be created.
+
  Original text file could not be opened.
 
 Otherwise it will run correctly and compress. It will also override the files in the directory if they existed previously.
