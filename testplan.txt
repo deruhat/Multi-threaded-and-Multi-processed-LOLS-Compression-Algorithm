@@ -1,0 +1,69 @@
+**This will contain all conditions that were tested and have been successful with several bigfile cases:
+
+
+*First of all, bigfile can contain anything, and everything, and it will the algorithm implemented 
+in both the threading version 
+and processing version will clean the text and will process the clean text.
+
+
+*THREADING TEST PLAN:-
+
+
+Parts: 1 -successful
+
+Parts: 2 -successful
+
+Parts: 3 -successful
+
+Parts: 4 -successful
+
+Parts: 5 -successful
+
+Parts: 6 -successful
+
+Parts: 7 -successful
+
+Parts: 8 -successful
+
+Parts: 9 -successful
+
+Parts: 10 -successful
+
+Parts: 11 -successful
+
+
+
+will work with ANY number of parts. 
+If # of parts > character count, error will appear -successful
+
+
+
+*PROCESSING TEST PLAN:-
+
+
+Parts: 1 -successful
+
+Parts: 2 -successful
+
+Parts: 3 -successful
+
+Parts: 4 -successful
+
+Parts: 5 -successful
+
+Parts: 6 -successful
+
+Parts: 7 -successful
+
+Parts: 8 -successful
+
+Parts: 9 -successful
+
+Parts: 10 -successful
+
+Parts: 11 -successful
+
+
+
+will work with ANY number of parts. 
+If # of parts > character count, error will appear -successful
