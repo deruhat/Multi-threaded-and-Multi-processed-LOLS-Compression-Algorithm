@@ -33,15 +33,24 @@ However, if the user wants to test it by themselves, they may modify the main fu
 Threads:
 
 int main() {
+
   //Here you should modify to what the number of parts you want is:
+  
   compressT_LOLS(bigfile, 3);
+  
   return 0;
+  
 }
+
 
 Processes:
 
 int main() {
+
   //Here you should modify to what the number of parts you want is:
+  
   compressR_LOLS(bigfile, 3);
+  
   return 0;
+  
 }
